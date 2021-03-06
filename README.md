@@ -74,3 +74,8 @@ Restart arduino
 
 
 ##### I am not responsible for damaged devices, if unhandled properly your device will be damaged. Make sure your careful because I have once literally toasted an arduino uno, and it was my fault not the guy giving the tutorial. So be careful!
+
+<p align="center" width="100%">
+    <img width="33%" src="https://profile-counter.glitch.me/muratbekler/count.svg"> 
+</p>
+
